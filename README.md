@@ -49,14 +49,6 @@ Spolszczenie jest nieoficjalne i nie zawiera oryginalnej gry. Do jego działania
 
 **Ważne:** Tłumaczenie przygotowano dla wersji **v1.0.2**. Zgodność z innymi wersjami gry nie została potwierdzona.
 
-## 📥 Pobierz spolszczenie
-
-**Lust Theory Season 3 — Spolszczenie PL (v1.0.2)**
-
-👉 **[TUTAJ WSTAW LINK DO POBRANIA SPOLSZCZENIA]**
-
-Spolszczenie jest całkowicie bezpłatne.
-
 ## 📂 Instrukcja instalacji
 
 Instalacja jest prosta i nie wymaga modyfikowania oryginalnych archiwów gry.
