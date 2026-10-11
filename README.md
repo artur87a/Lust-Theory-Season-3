@@ -107,3 +107,20 @@ Postaram się uwzględniać zgłoszenia podczas przygotowywania kolejnych popraw
 Mam nadzieję, że polska wersja pozwoli większej liczbie osób cieszyć się fabułą gry.
 
 **Miłej zabawy! 🇵🇱**
+🇵🇱 Aktualizacja spolszczenia — v1.0.6
+
+Cześć!
+
+Udostępniam również spolszczenie Lust Theory Season 3 dla wersji gry v1.0.6.
+
+Tłumaczenie zostało dostosowane do nowszej wersji gry i obejmuje dialogi, dodatkową zawartość oraz interfejs użytkownika.
+
+📥 Pobierz spolszczenie v1.0.6:
+
+👉 Lust Theory Season 3 — Spolszczenie PL v1.0.6 (MediaFire)
+
+Ważne: Pobierz paczkę odpowiadającą posiadanej wersji gry. Spolszczenie dla v1.0.2 pozostaje dostępne w pierwszym poście.
+
+Instalacja przebiega tak samo jak w poprzedniej wersji.
+
+Miłej gry! 🇵🇱
